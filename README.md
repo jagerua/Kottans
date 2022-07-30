@@ -1,5 +1,7 @@
 # Kottans Forntend.
 
+---
+
 # Task list:
    - [x] Git, GitHub, git flow
    - [ ] Linux
@@ -9,7 +11,15 @@
    - [ ] TypeScript basics
    ---
 
-## GitHub Learning.
+## Introduction to Git and GitHub.
 
 
-Thats first time when i get to use Git. So everything is new for me.
+<details>
+  <summary>Click to expand!</summary>
+  
+   * Some text.
+</details>
+
+   > Thats first time when i get to use Git. So everything is new for me. 
+   >
+   > And when you got to the new part its hard at firts but i know that its important to know.
