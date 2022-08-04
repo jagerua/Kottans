@@ -14,9 +14,17 @@
 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Week 01</summary>
   
-   * Some text.
+   ![Git](/task_git_collaboration/Coursera/CourseraWeek01.png)
+
+</details>
+
+<details>
+  <summary>Week 02</summary>
+  
+   ![Git](/task_git_collaboration/Coursera/CourseraWeek02.png)
+
 </details>
 
    > Thats first time when i get to use Git. So everything is new for me. 
