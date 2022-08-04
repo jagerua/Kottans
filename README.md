@@ -3,7 +3,7 @@
 
 # Task list:
    - [x] Git, GitHub, git flow
-   - [ ] Linux
+   - [x] Linux
    - [ ] HTML, CSS
    - [ ] JS basics
    - [ ] Frontend framework basics (React)
@@ -22,3 +22,4 @@
    > Thats first time when i get to use Git. So everything is new for me. 
    >
    > And when you got to the new part its hard at firts but i know that its important to know.
+
