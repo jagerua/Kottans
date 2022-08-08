@@ -55,8 +55,8 @@
    > I never work with Linux systems, so that was something new for me too. 
    > But i gain some new knowlages again. Can`t say i am PRO now and i will use it every day, but i try those commands, i see what they for. So in the fuature is going to be much easier to get into it more.
 
-   <details>
-  <summary>Linux Survival</summary>
+<details>
+   <summary>Linux Survival</summary>
   
    ![Linux](/task_linux_cli/Linux01.png)
 
@@ -65,5 +65,18 @@
    ![Linux](/task_linux_cli/Linux03.png)
 
    ![Linux](/task_linux_cli/Linux04.png)
+
+</details>
+
+   ## Intro to HTML and CSS
+
+   > Was notihing new for me. I But it always good to renew the knowlage you already have.
+
+<details>
+   <summary>Intro to HTML & CSS</summary>
+  
+   ![HTML](/task_html_css_intro/CourseraWeek1HTML.png)
+
+   ![CSS](/task_html_css_intro/CourseraWeek2CSS.png)
 
 </details>
