@@ -80,3 +80,25 @@
    ![CSS](/task_html_css_intro/CourseraWeek2CSS.png)
 
 </details>
+
+<details>
+   <summary>Learn HTML & CSS</summary>
+  
+   ![Codecademy](/task_html_css_intro/LearnHTMLCSS.png)
+
+</details>
+
+
+
+   ## Responsive Web Design
+
+<details>
+   <summary>Responsive Web Design</summary>
+  
+   ![Flexbox](/task_responsive_web_design/Flexbox_Froggy.png)
+
+   ![Grid](/task_responsive_web_design/Grid_Garden.png)
+
+</details>
+
+> Thats was good training for me. I used to play those games before, so its always nice to refresh knowlages.
