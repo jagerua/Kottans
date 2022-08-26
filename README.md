@@ -4,7 +4,7 @@
 # Task list:
    - [x] Git, GitHub, git flow
    - [x] Linux
-   - [ ] HTML, CSS
+   - [x] HTML, CSS
    - [ ] JS basics
    - [ ] Frontend framework basics (React)
    - [ ] TypeScript basics
@@ -102,3 +102,9 @@
 </details>
 
 > Thats was good training for me. I used to play those games before, so its always nice to refresh knowlages.
+
+   ## HTML і CSS: Hooli-style Popup
+
+   > Thats new experiance for me, to create popup. When i been working on it i use some help, i get some information from other sources.
+   > As far as i see this task would look and work better useing JS.
+
