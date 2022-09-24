@@ -118,7 +118,7 @@
 <details>
    <summary>Basic JavaScript</summary>
   
-   ![JS](/task_js_basic/FreeCodeCampJS.png)
+   ![JS](/task_js_basics/FreeCodeCampJS.png)
 
 </details>
 
@@ -127,28 +127,28 @@
 <details>
    <summary>ES6 Challenges</summary>
   
-   ![JS](/task_js_basic/FreeCodeCampES6.png)
+   ![JS](/task_js_basics/FreeCodeCampES6.png)
 
 </details>
 
 <details>
    <summary>Basic Data Structures</summary>
   
-   ![JS](/task_js_basic/FreeCodeCampBasicDataStructures.png)
+   ![JS](/task_js_basics/FreeCodeCampBasicDataStructures.png)
 
 </details>
 
 <details>
    <summary>Basic Algorithm Scripting</summary>
   
-   ![JS](/task_js_basic/BasicAlgorithmScripting.png)
+   ![JS](/task_js_basics/BasicAlgorithmScripting.png)
 
 </details>
 
 <details>
    <summary>Functional Programming</summary>
   
-   ![JS](/task_js_basic/FunctionalProgramming.png)
+   ![JS](/task_js_basics/FunctionalProgramming.png)
 
 </details>
 
@@ -158,7 +158,7 @@
 <details>
    <summary>Algorithm Scripting Challenges</summary>
   
-   ![JS](/task_js_basic/AlgorithmScriptingChallenges.png)
+   ![JS](/task_js_basics/AlgorithmScriptingChallenges.png)
 
 </details>
 
@@ -169,7 +169,7 @@
 <details>
    <summary>Document Object Model</summary>
   
-   ![DOM](/task_js_dom/DOM.png)
+   ![DOM](/task_js_dom/DOM.jpg)
 
 </details>
 
