@@ -5,9 +5,10 @@
    - [x] Git, GitHub, git flow
    - [x] Linux
    - [x] HTML, CSS
-   - [ ] JS basics
-   - [ ] Frontend framework basics (React)
-   - [ ] TypeScript basics
+   - [x] JS basics
+   - [x] Document Object Model - practice
+   - [ ] Building a Tiny JS World (pre-OOP) - practice
+
    ---
 
 ## Introduction to Git and GitHub.
@@ -101,11 +102,77 @@
 
 </details>
 
-> Thats was good training for me. I used to play those games before, so its always nice to refresh knowlages.
+   > Thats was good training for me. I used to play those games before, so its always nice to refresh knowlages.
 
    ## HTML і CSS: Hooli-style Popup
 
    > Thats new experiance for me, to create popup. When i been working on it i use some help, i get some information from other sources.
    > As far as i see this task would look and work better useing JS.
 
-   [Popup demo](https://jagerua.github.io)
+[Popup demo](https://jagerua.github.io)
+
+   ## JS Basics
+
+   > Lisened Introduction to Javascript.
+
+<details>
+   <summary>Basic JavaScript</summary>
+  
+   ![JS](/task_js_basic/FreeCodeCampJS.png)
+
+</details>
+
+   > Thats was really hard, FCC is a little hard to understand sometimes, so i was going to look form more examples and more information from people and google. The Functional Programming and Algorithm Scripting Challenges are the hardest part for me, i dont konw who can do those tasks with 2-3 hours but i need lot more then that. I think i spend couple weeks to really understand what i am doing and why it`s working like that.
+
+<details>
+   <summary>ES6 Challenges</summary>
+  
+   ![JS](/task_js_basic/FreeCodeCampES6.png)
+
+</details>
+
+<details>
+   <summary>Basic Data Structures</summary>
+  
+   ![JS](/task_js_basic/FreeCodeCampBasicDataStructures.png)
+
+</details>
+
+<details>
+   <summary>Basic Algorithm Scripting</summary>
+  
+   ![JS](/task_js_basic/BasicAlgorithmScripting.png)
+
+</details>
+
+<details>
+   <summary>Functional Programming</summary>
+  
+   ![JS](/task_js_basic/FunctionalProgramming.png)
+
+</details>
+
+   > I didnt finish Algorithm Scripting Challenges, becouse every task is so hard to uunderstand for me, so i try to do something and its endup with just going see solution and trying to understand why its like this and what i can change to make it work in different way.
+
+
+<details>
+   <summary>Algorithm Scripting Challenges</summary>
+  
+   ![JS](/task_js_basic/AlgorithmScriptingChallenges.png)
+
+</details>
+
+   ## DOM
+
+   > Lisened Document Object Model. Wast hard at oll, everything is so easy on the video. But when its time to try then you forget all what you know.
+
+<details>
+   <summary>Document Object Model</summary>
+  
+   ![DOM](/task_js_dom/DOM.png)
+
+</details>
+
+   > That was hard job too, i ask for some help becouse i know what i need to do but i dont know how i can use what i learned.
+
+[Popup demo](https://jagerua.github.io)
