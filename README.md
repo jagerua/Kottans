@@ -176,3 +176,9 @@
    > That was hard job too, i ask for some help becouse i know what i need to do but i dont know how i can use what i learned.
 
 [DOM demo](https://jagerua.github.io/dom_example.github.io/)
+
+   ## OOP
+
+   > Wached the video leason about OOP, i like the way how its shows and some examples. More practice. Really useful thing.
+
+[OOP demo](https://jagerua.github.io/a-tiny-JS-world/)
