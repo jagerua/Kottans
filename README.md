@@ -177,8 +177,8 @@
 
 [DOM demo](https://jagerua.github.io/dom_example.github.io/)
 
-   ## OOP
+   ## A Tiny JS World
 
    > Wached the video leason about OOP, i like the way how its shows and some examples. More practice. Really useful thing.
 
-[OOP demo](https://jagerua.github.io/a-tiny-JS-world/)
+[A Tiny JS World demo](https://jagerua.github.io/a-tiny-JS-world/)
